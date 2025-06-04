@@ -139,9 +139,3 @@ Run tests using Maven:
 * Docker containerization
 
 ---
-
-## 🙏 Acknowledgments
-
-This is a learning project built with Spring Boot to demonstrate building REST APIs with full CRUD capabilities.
-
----

@@ -1,3 +1,7 @@
+# High-Level Architecture
+
+![springboot-crud-rest-api](https://github.com/user-attachments/assets/3710b808-bde0-47a4-87bc-55781d03d26f)
+
 # Spring Boot CRUD RESTful Web Services
 
 A complete Spring Boot application that exposes a set of RESTful APIs for managing users. It provides functionality to **Create**, **Read**, **Update**, and **Delete** (CRUD) `User` entities with integration to a **MySQL** database.

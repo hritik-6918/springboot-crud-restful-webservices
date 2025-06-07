@@ -4,7 +4,7 @@ A complete Spring Boot application that exposes a set of RESTful APIs for managi
 
 ---
 
-## ✨ Features
+## ✨ Features ✅
 
 * RESTful API endpoints using Spring Boot
 * CRUD operations for `User` entity
@@ -14,7 +14,7 @@ A complete Spring Boot application that exposes a set of RESTful APIs for managi
 
 ---
 
-## 📊 Technologies Used
+## 📊 Technologies Used ✅
 
 * Java 17
 * Spring Boot 3.5.0
@@ -24,15 +24,15 @@ A complete Spring Boot application that exposes a set of RESTful APIs for managi
 
 ---
 
-# High-Level Architecture
+# High-Level Architecture ✅
 
 ![springboot-crud-rest-api](https://github.com/user-attachments/assets/3710b808-bde0-47a4-87bc-55781d03d26f)
 
-# Deployment on AWS | Elastic Beanstalk | AWS RDS
+# Deployment on AWS | Elastic Beanstalk | AWS RDS ✅
 
 ![screencapture-us-east-1-console-aws-amazon-elasticbeanstalk-home-2025-06-07-17_02_55](https://github.com/user-attachments/assets/914bcbac-cd8a-44d0-9fe3-ef42ada28c2d)
 
-## 📦 Project Structure
+## 📦 Project Structure ✅
 
 ```bash
 hritik-6918-springboot-crud-restful-webservices/
@@ -62,7 +62,7 @@ hritik-6918-springboot-crud-restful-webservices/
 
 ---
 
-## ⚙️ Setup & Configuration
+## ⚙️ Setup & Configuration ✅
 
 ### Prerequisites
 
@@ -99,7 +99,7 @@ Application will start at: `http://localhost:8080`
 
 ---
 
-## 🔧 API Endpoints
+## 🔧 API Endpoints ✅
 
 | Method | Endpoint          | Description           |
 | ------ | ----------------- | --------------------- |
@@ -121,13 +121,13 @@ Application will start at: `http://localhost:8080`
 
 ---
 
-## 🚫 Exception Handling
+## 🚫 Exception Handling ✅
 
 Custom exception `ResourceNotFoundException` is used to handle cases where a user with a given ID does not exist. It returns HTTP 404 with appropriate error messages.
 
 ---
 
-## 📊 Testing
+## 📊 Testing ✅
 
 Unit test class: `SpringbootCrudRestfulWebservicesApplicationTests.java`
 

@@ -28,7 +28,7 @@ A complete Spring Boot application that exposes a set of RESTful APIs for managi
 
 ![springboot-crud-rest-api](https://github.com/user-attachments/assets/3710b808-bde0-47a4-87bc-55781d03d26f)
 
-# Deployment Spring Boot MySQL CRUD REST API Application on AWS | Elastic Beanstalk | AWS RDS
+# Deployment on AWS | Elastic Beanstalk | AWS RDS
 
 ![screencapture-us-east-1-console-aws-amazon-elasticbeanstalk-home-2025-06-07-17_02_55](https://github.com/user-attachments/assets/914bcbac-cd8a-44d0-9fe3-ef42ada28c2d)
 
